@@ -1,0 +1,8 @@
+My ID is: 101
+My Name is: Monir
+My E-mail is: monir@gmail.com
+My Contact Number is: 01681146198
+My Gender is: Male
+My Last Education is: BUET
+My Skill is: Programmer
+My Hobby is: Programming
